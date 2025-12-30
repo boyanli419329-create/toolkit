@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+    <option name="project-jdk-name" value="$PROJECT_DIR$/.venv/bin/python" />
+    <option name="project-jdk-name" value="$PROJECT_DIR$/.venv/Scripts/python.exe" />
+    <option name="project-jdk-type" value="Python SDK" />
+  </component>
   <component name="PyCharmFileEditorManager">
     <option name="EXCLUDED_FOLDERS">
       <list>
@@ -8,5 +12,9 @@
         <option value="$PROJECT_DIR$/.setup" />
       </list>
     </option>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.setup" vcs=""/>
+    <mapping directory="$PROJECT_DIR$/.venv" vcs=""/>
   </component>
 </project>
