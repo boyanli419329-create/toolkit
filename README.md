@@ -7,6 +7,7 @@ Financial Data Analysis** course at **LIDA**.
 
 Please follow the instructions on **Lecture** to download and set up this template.
 
+# Please do not modify anything in lecture_sync.py
 
 
 
